@@ -27,7 +27,7 @@ This guide will walk you through the process of dual booting Ubuntu 24.04 LTS wi
 5. **Disk Management Overview:**
    - At the end, your Disk Management should have an unallocated space for Ubuntu.
 
-   ![Disk Management Screenshot](#)
+   ![Disk Management Screenshot](Screenshots/DiskManagement.png)
 
 ## Creating a Bootable USB
 
@@ -37,11 +37,13 @@ This guide will walk you through the process of dual booting Ubuntu 24.04 LTS wi
    - Tick the `Show All Drives` checkbox.
    - Select the drive letter assigned to your USB.
    - Click `Create`.
+   - 
+   ![Universal USB Installer Screenshot](Screenshots/UniUSBinstaller-setup.png)
 
 2. **Check USB Drive:**
    - Open `File Explorer` (This PC) to verify the bootable USB creation.
 
-   ![File Explorer Screenshot](#)
+   ![File Explorer Screenshot](Screenshots/MyPC.png)
 
 ## Booting and Installing Ubuntu
 
